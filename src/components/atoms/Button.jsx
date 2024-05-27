@@ -1,5 +1,3 @@
-
-
 function Button ({ type, onClick, children })  {
   return (
     <button 
